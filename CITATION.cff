@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this transcription version and the source at Tokyo University General Library."
+type: dataset
+title: "本朝醫考 | Honchō ikō: Transcription of Tokyo University V10:380"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - 本朝醫考
+  - 黑川道祐
+  - 日本醫學史
+  - 醫家傳記
+  - 漢文訓讀
+  - kunten
+  - Japanese medical history
+  - historical biography
+  - textual scholarship
+identifiers:
+  - type: doi
+    value: "10.20730/100273819"
+    description: "DOI of the source at the National Institute of Japanese Literature"
