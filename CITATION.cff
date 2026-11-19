@@ -1,8 +1,9 @@
 cff-version: 1.2.0
 message: "Please cite this transcription version and the source at Tokyo University General Library."
 type: dataset
-title: "本朝醫考 | Honchō ikō: Transcription of Tokyo University V10:380"
-version: "0.1.0"
+title: "本朝醫考(寬文三年序,東京大學 V10:380) / Honchō ikō: Transcription Dataset"
+version: "0.2.0"
+doi: "10.5281/zenodo.24361856"
 authors:
   - family-names: Chu
     given-names: Chen-Yu
